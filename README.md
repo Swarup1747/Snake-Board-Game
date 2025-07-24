@@ -1,2 +1,24 @@
-# Snake-Board-Game
-Developed a classic Snake Board Game using Java and Swing, featuring dynamic gameplay, real-time score tracking, and a restart functionality. The project demonstrates object-oriented design, event-driven programming, and custom GUI rendering using Java's AWT and Swing libraries.
+# 🐍 Snake Game in Java
+
+A classic Snake board game built in Java using Swing. The snake moves on a grid, grows by eating food, and the game ends when it collides with the wall or itself.
+
+## 🎮 Features
+
+- Smooth movement using arrow keys
+- Random food placement
+- Real-time score tracking
+- Game Over detection (self-collision & wall collision)
+- ✅ Restart button after Game Over
+- GUI made using Java Swing
+- Fully object-oriented design
+
+## 📷 Screenshot
+
+![Snake Game Screenshot](screenshot.png) <!-- Replace with your screenshot image if you add one -->
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/snake-game-java.git
+   cd snake-game-java
