@@ -8,7 +8,6 @@ A classic Snake board game built in Java using Swing. The snake moves on a grid,
 - Random food placement
 - Real-time score tracking
 - Game Over detection (self-collision & wall collision)
-- ✅ Restart button after Game Over
 - GUI made using Java Swing
 - Fully object-oriented design
 
